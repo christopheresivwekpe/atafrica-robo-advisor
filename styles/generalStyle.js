@@ -169,7 +169,7 @@ box5w, box6w, box9w }) => (
     image8W ? "115px" :
     image9W ? "72px" :
     text3W ? "100%" :
-    image5W ? "450px" :
+    image5W ? "100%" :
     box5w ? "100%" :
     text2W ? "226px" :
     text1W ? "100%" :
